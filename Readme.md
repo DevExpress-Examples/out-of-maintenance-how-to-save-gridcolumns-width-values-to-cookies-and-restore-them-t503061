@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Category.cs](./CS/App_Code/Category.cs) (VB: [Category.vb](./VB/App_Code/Category.vb))
+* [Source.cs](./CS/App_Code/Source.cs) (VB: [Source.vb](./VB/App_Code/Source.vb))
+* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx](./VB/Default.aspx))
+<!-- default file list end -->
 # How to save GridColumns' width values to cookies and restore them
 
 
