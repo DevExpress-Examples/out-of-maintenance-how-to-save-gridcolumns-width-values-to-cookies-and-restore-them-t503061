@@ -7,6 +7,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # How to save GridColumns' width values to cookies and restore them
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t503061/)**
+<!-- run online end -->
 
 
 <p>ASPxGridView control doesn't send a callback to the server when a GridColumn width is changed. GridColumns' width value will be passed to the server with the next ASPxGridView callback. If a callback is not sent, page reloading will cause losing columns' new widths. The sample illustrates how to save ASPxGridView columns' widths to a cookie at the client side and apply them at the server side. </p>
